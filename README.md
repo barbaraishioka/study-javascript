@@ -23,7 +23,7 @@
 </ul>
 
 </br>
-<p>Feito com &hearts; by <a target="_blank" href="https://www.linkedin.com/in/barbaraishioka">Bárbara Ishioka</a>
+<p>Feito com &hearts; by <a :target="_blank" href="https://www.linkedin.com/in/barbaraishioka">Bárbara Ishioka</a>
 
 </br>
 
