@@ -1,7 +1,7 @@
-<div id="top" align="center">
+<div align="center";>
   <h1>Javascript</h1>
   <img
-    width="150px"
+    width="120px"
     src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"
     alt="Logo Javascript" />
 </div>
@@ -21,8 +21,8 @@
 </ul>
 
 </br>
-<p>Feito com &hearts; by <a src="https://www.linkedin.com/in/barbaraishioka/">Bárbara Ishioka</p>
+<p>Feito com &hearts; by [Bárbara Ishioka](https://www.linkedin.com/in/barbaraishioka/)
 
 </br>
 
-<a src="#top">⬆️ Voltar para o topo<a>
+<p align="right">[⬆️ Voltar ao topo](#custom-id)</p>
