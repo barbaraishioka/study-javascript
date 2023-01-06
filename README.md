@@ -1,4 +1,4 @@
-<div align="center";>
+<div id="top" align="center";>
   <h1>Javascript</h1>
   <img
     width="120px"
@@ -25,4 +25,4 @@
 
 </br>
 
-<p align="right">[⬆️ Voltar ao topo](#custom-id)</p>
+<p align="right">[⬆️ Voltar ao topo](#top)</p>
