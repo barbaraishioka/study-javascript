@@ -17,9 +17,10 @@
   <li>array</li>
   <li>object</li>
   <li>math()</li>
-  <li>arithmetic-operators</li>
-  <li>assignment-operators</li>
-  <li>comparison-operators</li>
+  <li>arithmetic operators</li>
+  <li>assignment operators</li>
+  <li>comparison operators</li>
+  <li>logical operators</li>
 </ul>
 
 
