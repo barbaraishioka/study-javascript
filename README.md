@@ -1,7 +1,7 @@
 <div id="top" align="center";>
   <h1>Javascript
     <img align="right";
-    width="200px"
+    width="120px"
     src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"
     alt="Logo Javascript" />
   </h1>
@@ -22,9 +22,8 @@
   <li>comparison-operators</li>
 </ul>
 
-</br>
-<p>Feito com &hearts; by <a href="https://www.linkedin.com/in/barbaraishioka">Bárbara Ishioka</a>
 
 </br>
 
 <p align="right"><a href="#top">⬆️ Voltar ao topo</a></p>
+</br>
