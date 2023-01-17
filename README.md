@@ -21,6 +21,12 @@
   <li>assignment operators</li>
   <li>comparison operators</li>
   <li>logical operators</li>
+  <li>ternary operator</li>
+  <li>typeof operator</li>
+  <li>delete operator</li>
+  <li>if-else</li>
+  <li>else-if</li>
+  <li>switch case</li>
 </ul>
 
 
