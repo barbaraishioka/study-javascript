@@ -38,7 +38,7 @@
 <br>
   <li><a href="./study-material/conditional-structure">conditional-structure</a></li>
     <ul>
-      <li><a href="./study-material/conditional-structure/if-else.js">if-else and else-if</a></li>
+      <li><a href="./study-material/conditional-structure/if-else.js">if else - else if</a></li>
       <li><a href="./study-material/conditional-structure/switch-case.js">switch case</a></li>
     </ul>
 <br>
