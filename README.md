@@ -10,25 +10,47 @@
 </br>
 <h2>About</h2>
 <ul>
-  <li>variable</li>
-  <li>string</li>
-  <li>number</li>
-  <li>boolean</li>
-  <li>array</li>
-  <li>object</li>
-  <li>math()</li>
-  <li>arithmetic operators</li>
-  <li>assignment operators</li>
-  <li>comparison operators</li>
-  <li>logical operators</li>
-  <li>ternary operator</li>
-  <li>typeof operator</li>
-  <li>delete operator</li>
-  <li>if-else</li>
-  <li>else-if</li>
-  <li>switch case</li>
-</ul>
+  <li>data-type</li>
+    <ul>
+      <li>variable</li>
+      <li>string</li>
+      <li>number</li>
+      <li>boolean</li>
+      <li>array</li>
+      <li>object</li>
+    </ul>
 
+  <li>natives</li>
+    <ul>
+      <li>math()</li>
+    </ul>
+
+  <li>operators</li>
+    <ul>
+      <li>arithmetic operators</li>
+      <li>assignment operators</li>
+      <li>comparison operators</li>
+      <li>logical operators</li>
+      <li>ternary operator</li>
+      <li>typeof operator</li>
+      <li>delete operator</li>
+    </ul>
+
+  <li>conditional-structure</li>
+    <ul>
+      <li>if-else</li>
+      <li>else-if</li>
+      <li>switch case</li>
+    </ul>
+
+  <li>loop-structure</li>
+    <ul>
+      <li>for</li>
+      <li>while</li>
+      <li>for of</li>
+      <li>for in</li>
+    </ul>
+</ul>
 
 </br>
 
