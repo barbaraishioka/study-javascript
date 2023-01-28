@@ -10,7 +10,7 @@
 </br>
 <h2>About</h2>
 <ul>
-  <li>data-type</li>
+  <li><a src="./study-material/data-type">data-type</a></li>
     <ul>
       <li>variable</li>
       <li>string</li>
