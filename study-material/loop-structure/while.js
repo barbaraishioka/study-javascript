@@ -1,4 +1,5 @@
 /* 
+
 ESTRUTURA DE REPETIÇÃO - WHILE
 
 while (condition) {}
