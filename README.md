@@ -10,45 +10,44 @@
 </br>
 <h2>About</h2>
 <ul>
-  <li>data-type</li>
+  <li><a href="./study-material/data-type">data-type</a></li>
     <ul>
-      <li>variable</li>
-      <li>string</li>
-      <li>number</li>
-      <li>boolean</li>
-      <li>array</li>
-      <li>object</li>
+      <li><a href="./study-material/data-type/variable.js">variable</a></li>
+      <li><a href="./study-material/data-type/string.js">string</a></li>
+      <li><a href="./study-material/data-type/number.js">number</a></li>
+      <li><a href="./study-material/data-type/boolean.js">boolean</a></li>
+      <li><a href="./study-material/data-type/array.js">array</a></li>
+      <li><a href="./study-material/data-type/object.js">object</a></li>
     </ul>
 <br>
-  <li>natives</li>
+  <li><a href="./study-material/natives">natives</a></li>
     <ul>
-      <li>math()</li>
+      <li><a href="./study-material/natives.js/math.js">math()</a></li>
     </ul>
 <br>
-  <li>operators</li>
+  <li><a href="./study-material/operators">operators</a></li>
     <ul>
-      <li>arithmetic operators</li>
-      <li>assignment operators</li>
-      <li>comparison operators</li>
-      <li>logical operators</li>
-      <li>ternary operator</li>
-      <li>typeof operator</li>
-      <li>delete operator</li>
+      <li><a href="./study-material/operators.js/arithmetic-operators.js">arithmetic operators</a></li>
+      <li><a href="./study-material/operators.js/assignment-operators.js">assignment operators</a></li>
+      <li><a href="./study-material/operators.js/comparison-operators.js">comparison operators</a></li>
+      <li><a href="./study-material/operators.js/logical-operators.js">logical operators</a></li>
+      <li><a href="./study-material/operators.js/ternary-operator.js">ternary operator</a></li>
+      <li><a href="./study-material/operators.js/typeof-operator.js">typeof operator</a></li>
+      <li><a href="./study-material/operators.js/delete-operator.js">delete operator</a></li>
     </ul>
 <br>
-  <li>conditional-structure</li>
+  <li><a href="./study-material/conditional-structure">conditional-structure</a></li>
     <ul>
-      <li>if-else</li>
-      <li>else-if</li>
-      <li>switch case</li>
+      <li><a href="./study-material/conditional-structure/if-else.js">if-else and else-if</a></li>
+      <li><a href="./study-material/conditional-structure/switch-case.js">switch case</a></li>
     </ul>
 <br>
-  <li>loop-structure</li>
+  <li><a href="./study-material/loop-structure">loop-structure</a></li>
     <ul>
-      <li>for</li>
-      <li>while</li>
-      <li>for of</li>
-      <li>for in</li>
+      <li><a href="./study-material/loop-structure/for.js">for</a></li>
+      <li><a href="./study-material/loop-structure/while.js">while</a></li>
+      <li><a href="./study-material/loop-structure/for-of.js">for of</a></li>
+      <li><a href="./study-material/loop-structure/for-in.js">for in</a></li>
     </ul>
 </ul>
 
