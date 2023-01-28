@@ -19,12 +19,12 @@
       <li>array</li>
       <li>object</li>
     </ul>
-
+<br>
   <li>natives</li>
     <ul>
       <li>math()</li>
     </ul>
-
+<br>
   <li>operators</li>
     <ul>
       <li>arithmetic operators</li>
@@ -35,14 +35,14 @@
       <li>typeof operator</li>
       <li>delete operator</li>
     </ul>
-
+<br>
   <li>conditional-structure</li>
     <ul>
       <li>if-else</li>
       <li>else-if</li>
       <li>switch case</li>
     </ul>
-
+<br>
   <li>loop-structure</li>
     <ul>
       <li>for</li>
